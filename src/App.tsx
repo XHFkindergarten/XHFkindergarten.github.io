@@ -15,7 +15,7 @@ function App() {
         <h1>Hey,</h1>
         <p>
           My name is gvgvli (李肇康), a front-end development engineer living in
-          Shenzhen
+          Shenzhen.
         </p>
         <h4>experience</h4>
         <ul>
@@ -36,7 +36,7 @@ function App() {
               href={"https://o2team.github.io/"}
               target="_blank"
             >
-              JS O2 team
+              JD O2 team
             </a>
           </li>
           <li>
