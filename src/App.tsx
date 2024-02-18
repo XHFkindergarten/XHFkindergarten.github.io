@@ -13,10 +13,14 @@ function App() {
       </div>
       <div className={classes["main-container"]}>
         <h1>Hey,</h1>
-        <p>
-          My name is gvgvli (李肇康), a front-end development engineer living in
-          Shenzhen.
-        </p>
+        <p>This is 風魔小次郎, a front-end development engineer.</p>
+        <h4>location</h4>
+        <ul>
+          <li>
+            Shenzhen City, Guangdong Province, China
+            <span className={classes.title}></span>
+          </li>
+        </ul>
         <h4>experience</h4>
         <ul>
           <li>
