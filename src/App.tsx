@@ -54,13 +54,23 @@ function App() {
             </a>
           </li>
           <li>
-            <span className={classes.title}>2023-now</span>
+            <span className={classes.title}>2023-2025</span>
             <a
               className={classes.we}
               href={"https://pay.weixin.qq.com/"}
               target="_blank"
             >
               Wechat
+            </a>
+          </li>
+          <li>
+            <span className={classes.title}>2025-now</span>
+            <a
+              className={classes.okx}
+              href={"https://www.okx.com/"}
+              target="_blank"
+            >
+              OKX
             </a>
           </li>
         </ul>
