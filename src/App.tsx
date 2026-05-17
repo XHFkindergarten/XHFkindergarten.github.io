@@ -3,14 +3,6 @@ import classes from "./App.module.less";
 function App() {
   return (
     <div className={classes.container}>
-      <div className={classes["banner-container"]}>
-        <img
-          src={
-            "https://img14.360buyimg.com/ling/jfs/t1/155357/17/16559/98021/600d2335E6829b9cc/210becd64a408d24.jpg"
-          }
-          className={classes.banner}
-        />
-      </div>
       <div className={classes["main-container"]}>
         <h1>Hey,</h1>
         <p>This is 風魔小次郎, a front-end development engineer.</p>
