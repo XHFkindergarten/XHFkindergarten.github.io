@@ -5,13 +5,10 @@ function App() {
     <div className={classes.container}>
       <div className={classes["main-container"]}>
         <h1>Hey,</h1>
-        <p>This is 風魔小次郎, a front-end development engineer.</p>
+        <p>I'm 風魔小次郎, a front-end engineer.</p>
         <h4>location</h4>
         <ul>
-          <li>
-            Shenzhen City, Guangdong Province, China
-            <span className={classes.title}></span>
-          </li>
+          <li>Shenzhen, China</li>
         </ul>
         <h4>experience</h4>
         <ul>
@@ -32,7 +29,7 @@ function App() {
               href={"https://o2team.github.io/"}
               target="_blank"
             >
-              JD O2 team
+              JD O2 Team
             </a>
           </li>
           <li>
@@ -52,11 +49,11 @@ function App() {
               href={"https://pay.weixin.qq.com/"}
               target="_blank"
             >
-              Wechat
+              WeChat
             </a>
           </li>
           <li>
-            <span className={classes.title}>2025-now</span>
+            <span className={classes.title}>2025-Present</span>
             <a
               className={classes.okx}
               href={"https://www.okx.com/"}
@@ -69,10 +66,10 @@ function App() {
         <h4>contact</h4>
         <ul>
           <li>
-            <span>Mail: XHFkindergarten@gmail.com</span>
+            <span>email: XHFkindergarten@gmail.com</span>
           </li>
           <li>
-            <span>Wechat: lzk100511130612</span>
+            <span>wechat: lzk100511130612</span>
           </li>
         </ul>
       </div>
